@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mobile_first/static/css/main.1d614263.css",
+    "main.css": "/mobile_first/static/css/main.019313dc.css",
     "main.js": "/mobile_first/static/js/main.76df79c5.js",
     "static/js/787.09edb4f1.chunk.js": "/mobile_first/static/js/787.09edb4f1.chunk.js",
     "static/media/10.svg": "/mobile_first/static/media/10.23dae639e4700249f79140f6d878525d.svg",
@@ -9,12 +9,12 @@
     "static/media/15.svg": "/mobile_first/static/media/15.fd59e9a6107864592a04ef60a58d3e70.svg",
     "index.html": "/mobile_first/index.html",
     "static/media/17.svg": "/mobile_first/static/media/17.62bbc003d9256acf9e5df5a018b910fa.svg",
-    "main.1d614263.css.map": "/mobile_first/static/css/main.1d614263.css.map",
+    "main.019313dc.css.map": "/mobile_first/static/css/main.019313dc.css.map",
     "main.76df79c5.js.map": "/mobile_first/static/js/main.76df79c5.js.map",
     "787.09edb4f1.chunk.js.map": "/mobile_first/static/js/787.09edb4f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d614263.css",
+    "static/css/main.019313dc.css",
     "static/js/main.76df79c5.js"
   ]
 }
